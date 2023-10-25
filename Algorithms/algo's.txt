@@ -1,2 +1,0 @@
-Algorithm Visualizer - Dozens of animated algorithms (with code), and you can also create your own.
-http://algo-visualizer.jasonpark.me/
