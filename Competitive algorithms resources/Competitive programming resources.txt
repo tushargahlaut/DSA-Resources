@@ -1,2 +1,1 @@
-CodeChef - Learning DSA by practice on Codechef
-https://www.codechef.com/LEARNDSA/
+[CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
